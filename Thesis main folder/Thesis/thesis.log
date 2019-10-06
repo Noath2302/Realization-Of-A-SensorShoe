@@ -1,0 +1,1184 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.31)  15 SEP 2019 09:34
+entering extended mode
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2018-12-01>
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thesis\thesis.cls"
+Document Class: thesis 1996/25/01 1.0g LaTeX document class (wm).
+\hours=\count80
+\minutes=\count81
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count82
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\beforechaptervspace=\skip41
+\afterchaptervspace=\skip42
+\exampleindent=\skip43
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip44
+\belowcaptionskip=\skip45
+\bibindent=\dimen102
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg"))
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen113
+\ar@mcellbox=\box27
+\extrarowheight=\dimen114
+\NC@list=\toks16
+\extratabsurround=\skip46
+\backup@length=\skip47
+\ar@cellbox=\box28
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty
+"
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count94
+\mult@box=\box29
+\multicol@leftmargin=\dimen115
+\c@unbalance=\count95
+\c@collectmore=\count96
+\doublecol@number=\count97
+\multicoltolerance=\count98
+\multicolpretolerance=\count99
+\full@width=\dimen116
+\page@free=\dimen117
+\premulticols=\dimen118
+\postmulticols=\dimen119
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box30
+\last@line=\box31
+\maxbalancingoverflow=\dimen120
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count100
+\c@finalcolumnbadness=\count101
+\last@try=\dimen121
+\multicolovershoot=\dimen122
+\multicolundershoot=\dimen123
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\mc@col@check@num=\count102
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen124
+))
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen125
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count103
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count104
+\leftroot@=\count105
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count106
+\DOTSCASE@=\count107
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count108
+\c@MaxMatrixCols=\count109
+\dotsspace@=\muskip10
+\c@parentequation=\count110
+\dspbrk@lvl=\count111
+\tag@help=\toks19
+\row@=\count112
+\column@=\count113
+\maxfields@=\count114
+\andhelp@=\toks20
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks21
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks28
+)
+\@indexfile=\write3
+\openout3 = `thesis.idx'.
+
+
+Writing index file thesis.idx
+(thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 455.24411pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=731.23584pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=38.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen133
+\scratchbox=\box57
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen134
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks30
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<./graphics/FRA_1.jpg, id=1, 379.4175pt x 157.58875pt>
+File: ./graphics/FRA_1.jpg Graphic file (type jpg)
+<use ./graphics/FRA_1.jpg>
+Package pdftex.def Info: ./graphics/FRA_1.jpg  used on input line 18.
+(pdftex.def)             Requested size: 204.85846pt x 85.08702pt.
+<./graphics/VGU.jpg, id=2, 920.43875pt x 262.9825pt>
+File: ./graphics/VGU.jpg Graphic file (type jpg)
+<use ./graphics/VGU.jpg>
+Package pdftex.def Info: ./graphics/VGU.jpg  used on input line 19.
+(pdftex.def)             Requested size: 204.85846pt x 58.53047pt.
+<./graphics/shoe.jpg, id=3, 2055.68pt x 1541.76pt>
+File: ./graphics/shoe.jpg Graphic file (type jpg)
+<use ./graphics/shoe.jpg>
+Package pdftex.def Info: ./graphics/shoe.jpg  used on input line 29.
+(pdftex.def)             Requested size: 265.55396pt x 199.16928pt.
+ [1
+
+
+{C:/Users/themi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./graphics/
+FRA_1.jpg> <./graphics/VGU.jpg> <./graphics/shoe.jpg>] (thesis.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+("C:\Users\themi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+ [2
+
+] (thesis.lof)
+\tf@lof=\write5
+\openout5 = `thesis.lof'.
+
+ [3
+
+] (thesis.lot)
+\tf@lot=\write6
+\openout6 = `thesis.lot'.
+
+ [4
+
+] [5
+
+] [6
+
+] [7
+
+]
+Chapter 1.
+[8
+
+]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+<./graphics/gait_cycle.jpg, id=41, 457.44528pt x 183.45462pt>
+File: ./graphics/gait_cycle.jpg Graphic file (type jpg)
+<use ./graphics/gait_cycle.jpg>
+Package pdftex.def Info: ./graphics/gait_cycle.jpg  used on input line 79.
+(pdftex.def)             Requested size: 426.79134pt x 171.16248pt.
+[9
+
+ <./graphics/gait_cycle.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+<./graphics/OpAmp_1.png, id=46, 391.4625pt x 202.356pt>
+File: ./graphics/OpAmp_1.png Graphic file (type png)
+<use ./graphics/OpAmp_1.png>
+Package pdftex.def Info: ./graphics/OpAmp_1.png  used on input line 103.
+(pdftex.def)             Requested size: 284.52756pt x 147.08566pt.
+[10]
+<./graphics/OpAmp_2.png, id=52, 281.853pt x 190.91325pt>
+File: ./graphics/OpAmp_2.png Graphic file (type png)
+<use ./graphics/OpAmp_2.png>
+Package pdftex.def Info: ./graphics/OpAmp_2.png  used on input line 114.
+(pdftex.def)             Requested size: 284.52756pt x 192.73055pt.
+ [11 <./graphics/OpAmp_1.png> <./graphics/OpAmp_2.png>]
+<./graphics/OpAmp_3.png, id=58, 280.6485pt x 172.84575pt>
+File: ./graphics/OpAmp_3.png Graphic file (type png)
+<use ./graphics/OpAmp_3.png>
+Package pdftex.def Info: ./graphics/OpAmp_3.png  used on input line 131.
+(pdftex.def)             Requested size: 284.52756pt x 175.24799pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--135
+
+ []
+
+<./graphics/OpAmp_4.png, id=59, 266.1945pt x 149.358pt>
+File: ./graphics/OpAmp_4.png Graphic file (type png)
+<use ./graphics/OpAmp_4.png>
+Package pdftex.def Info: ./graphics/OpAmp_4.png  used on input line 146.
+(pdftex.def)             Requested size: 284.52756pt x 159.64737pt.
+<./graphics/OpAmp_5.png, id=60, 302.93175pt x 205.36725pt>
+File: ./graphics/OpAmp_5.png Graphic file (type png)
+<use ./graphics/OpAmp_5.png>
+Package pdftex.def Info: ./graphics/OpAmp_5.png  used on input line 156.
+(pdftex.def)             Requested size: 284.52756pt x 192.90422pt.
+[12 <./graphics/OpAmp_3.png>] [13 <./graphics/OpAmp_4.png> <./graphics/OpAmp_5.
+png>] [14]
+Chapter 3.
+<./graphics/ROTS_General.png, id=76, 723.70375pt x 261.97874pt>
+File: ./graphics/ROTS_General.png Graphic file (type png)
+<use ./graphics/ROTS_General.png>
+Package pdftex.def Info: ./graphics/ROTS_General.png  used on input line 195.
+(pdftex.def)             Requested size: 426.79134pt x 154.49815pt.
+[15
+
+ <./graphics/ROTS_General.png>]
+<./graphics/A301_spec.png, id=81, 458.31226pt x 286.671pt>
+File: ./graphics/A301_spec.png Graphic file (type png)
+<use ./graphics/A301_spec.png>
+Package pdftex.def Info: ./graphics/A301_spec.png  used on input line 216.
+(pdftex.def)             Requested size: 284.52756pt x 177.97913pt.
+ [16 <./graphics/A301_spec.png>]
+<./graphics/FlexA301CR.png, id=87, 316.18124pt x 186.6975pt>
+File: ./graphics/FlexA301CR.png Graphic file (type png)
+<use ./graphics/FlexA301CR.png>
+Package pdftex.def Info: ./graphics/FlexA301CR.png  used on input line 228.
+(pdftex.def)             Requested size: 341.43306pt x 201.62173pt.
+<./graphics/FlexA301Cir.png, id=88, 530.58224pt x 464.937pt>
+File: ./graphics/FlexA301Cir.png Graphic file (type png)
+<use ./graphics/FlexA301Cir.png>
+Package pdftex.def Info: ./graphics/FlexA301Cir.png  used on input line 238.
+(pdftex.def)             Requested size: 426.79134pt x 374.00037pt.
+<./graphics/Diff.png, id=89, 642.60075pt x 302.93175pt>
+File: ./graphics/Diff.png Graphic file (type png)
+<use ./graphics/Diff.png>
+Package pdftex.def Info: ./graphics/Diff.png  used on input line 255.
+(pdftex.def)             Requested size: 341.43306pt x 160.9552pt.
+<./graphics/ForceSch.png, id=90, 928.6695pt x 444.4605pt>
+File: ./graphics/ForceSch.png Graphic file (type png)
+<use ./graphics/ForceSch.png>
+Package pdftex.def Info: ./graphics/ForceSch.png  used on input line 266.
+(pdftex.def)             Requested size: 426.79134pt x 204.25763pt.
+ [17 <./graphics/FlexA301CR.png>] [18 <./graphics/FlexA301Cir.png> <./graphics/
+Diff.png>]
+<./graphics/ForceBrd.png, id=102, 755.82375pt x 470.9595pt>
+File: ./graphics/ForceBrd.png Graphic file (type png)
+<use ./graphics/ForceBrd.png>
+Package pdftex.def Info: ./graphics/ForceBrd.png  used on input line 281.
+(pdftex.def)             Requested size: 284.52756pt x 177.29207pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+[]|\OT1/cmr/m/n/12 RESISTOR ,Eu-ro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+[]|\OT1/cmr/m/n/12 RESISTOR, Eu-ro-
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 303--304
+[]|\OT1/cmr/m/n/12 CAPACITOR, Eu-ro-
+ []
+
+
+Underfull \hbox (badness 5607) in paragraph at lines 305--306
+[]|\OT1/cmr/m/n/12 Quad Gen-eral Pur-
+ []
+
+
+Underfull \hbox (badness 5711) in paragraph at lines 305--306
+\OT1/cmr/m/n/12 pose, Low Volt-age,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\OT1/cmr/m/n/12 Rail-to-Rail Out-put
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\OT1/cmr/m/n/12 Op-er-a-tional Am-pli-
+ []
+
+
+Overfull \hbox (7.9037pt too wide) in paragraph at lines 288--308
+ [] 
+ []
+
+[19 <./graphics/ForceSch.png>]
+<./graphics/MT3608.png, id=108, 379.4175pt x 278.2395pt>
+File: ./graphics/MT3608.png Graphic file (type png)
+<use ./graphics/MT3608.png>
+Package pdftex.def Info: ./graphics/MT3608.png  used on input line 323.
+(pdftex.def)             Requested size: 341.43306pt x 250.38776pt.
+ [20 <./graphics/ForceBrd.png>]
+Overfull \hbox (9.14717pt too wide) in paragraph at lines 331--346
+ [] 
+ []
+
+[21 <./graphics/MT3608.png>]
+Overfull \hbox (11.04723pt too wide) in paragraph at lines 363--363
+[]|\OT1/cmr/m/n/12 Qty| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+[]|\OT1/cmr/m/n/12 POLARIZED
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+\OT1/cmr/m/n/12 CA-PAC-I-TOR,
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 365--366
+\OT1/cmr/m/n/12 Eu-ro-pean sym-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+[]|\OT1/cmr/m/n/12 JP1, JP2,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+\OT1/cmr/m/n/12 JP3, JP4,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+\OT1/cmr/m/n/12 JP5, JP6,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--369
+[]|\OT1/cmr/m/n/12 SOURCE,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--369
+\OT1/cmr/m/n/12 SOURCE1,
+ []
+
+
+Overfull \hbox (1.2175pt too wide) in paragraph at lines 371--371
+[]|$\OML/cmm/m/it/12 OUT[]ORCE$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+[]|\OT1/cmr/m/n/12 CAPACITOR,
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 377--378
+\OT1/cmr/m/n/12 Eu-ro-pean sym-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+[]|\OT1/cmr/m/n/12 DC-DC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+\OT1/cmr/m/n/12 STEP-UP-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+[]|\OT1/cmr/m/n/12 DC-DC-STEP-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+[]|\OT1/cmr/m/n/12 DC-DC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+\OT1/cmr/m/n/12 STEP-UP-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+[]|\OT1/cmr/m/n/12 DC/DC Step-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+\OT1/cmr/m/n/12 Up Reg-u-la-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+\OT1/cmr/m/n/12 tor based on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+[]|\OT1/cmr/m/n/12 Quad Gen-eral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+\OT1/cmr/m/n/12 Pur-pose, Low
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+\OT1/cmr/m/n/12 Volt-age, Rail-
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 381--382
+\OT1/cmr/m/n/12 to-Rail Out-put
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+\OT1/cmr/m/n/12 Op-er-a-tional
+ []
+
+
+Overfull \hbox (3.668pt too wide) in paragraph at lines 361--384
+ [] 
+ []
+
+<./graphics/PowerSch.png, id=117, 573.342pt x 414.348pt>
+File: ./graphics/PowerSch.png Graphic file (type png)
+<use ./graphics/PowerSch.png>
+Package pdftex.def Info: ./graphics/PowerSch.png  used on input line 390.
+(pdftex.def)             Requested size: 426.79134pt x 308.45255pt.
+<./graphics/PowerBrd.png, id=118, 686.565pt x 323.40825pt>
+File: ./graphics/PowerBrd.png Graphic file (type png)
+<use ./graphics/PowerBrd.png>
+Package pdftex.def Info: ./graphics/PowerBrd.png  used on input line 397.
+(pdftex.def)             Requested size: 426.79134pt x 201.03905pt.
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+[23]
+
+LaTeX Warning: Text page 24 contains only floats.
+
+[24 <./graphics/PowerSch.png> <./graphics/PowerBrd.png>]
+<./graphics/Esp8266.jpg, id=130, 716.07526pt x 445.665pt>
+File: ./graphics/Esp8266.jpg Graphic file (type jpg)
+<use ./graphics/Esp8266.jpg>
+Package pdftex.def Info: ./graphics/Esp8266.jpg  used on input line 430.
+(pdftex.def)             Requested size: 251.43864pt x 156.49014pt.
+<./graphics/EspSetup.jpg, id=131, 1040.688pt x 780.516pt>
+File: ./graphics/EspSetup.jpg Graphic file (type jpg)
+<use ./graphics/EspSetup.jpg>
+Package pdftex.def Info: ./graphics/EspSetup.jpg  used on input line 432.
+(pdftex.def)             Requested size: 208.64206pt x 156.49014pt.
+<./graphics/ADS1115_1.png, id=132, 222.8325pt x 223.43475pt>
+File: ./graphics/ADS1115_1.png Graphic file (type png)
+<use ./graphics/ADS1115_1.png>
+Package pdftex.def Info: ./graphics/ADS1115_1.png  used on input line 439.
+(pdftex.def)             Requested size: 198.64331pt x 199.16928pt.
+<./graphics/ADS1115_3.png, id=133, 516.12825pt x 122.25674pt>
+File: ./graphics/ADS1115_3.png Graphic file (type png)
+<use ./graphics/ADS1115_3.png>
+Package pdftex.def Info: ./graphics/ADS1115_3.png  used on input line 446.
+(pdftex.def)             Requested size: 426.79134pt x 101.09436pt.
+<./graphics/ADS1115_4.png, id=134, 368.577pt x 112.0185pt>
+File: ./graphics/ADS1115_4.png Graphic file (type png)
+<use ./graphics/ADS1115_4.png>
+Package pdftex.def Info: ./graphics/ADS1115_4.png  used on input line 452.
+(pdftex.def)             Requested size: 398.33858pt x 121.06703pt.
+<./graphics/ADS1115_2.png, id=135, 455.90324pt x 398.6895pt>
+File: ./graphics/ADS1115_2.png Graphic file (type png)
+<use ./graphics/ADS1115_2.png>
+Package pdftex.def Info: ./graphics/ADS1115_2.png  used on input line 459.
+(pdftex.def)             Requested size: 325.35616pt x 284.52756pt.
+ [25 <./graphics/Esp8266.jpg> <./graphics/EspSetup.jpg>] [26 <./graphics/ADS111
+5_1.png> <./graphics/ADS1115_3.png> <./graphics/ADS1115_4.png>] [27 <./graphics
+/ADS1115_2.png>]
+<./graphics/MPU9250.png, id=150, 401.0985pt x 361.95226pt>
+File: ./graphics/MPU9250.png Graphic file (type png)
+<use ./graphics/MPU9250.png>
+Package pdftex.def Info: ./graphics/MPU9250.png  used on input line 467.
+(pdftex.def)             Requested size: 284.52756pt x 256.75592pt.
+<./graphics/RPY.png, id=151, 263.18324pt x 221.02576pt>
+File: ./graphics/RPY.png Graphic file (type png)
+<use ./graphics/RPY.png>
+Package pdftex.def Info: ./graphics/RPY.png  used on input line 473.
+(pdftex.def)             Requested size: 284.52756pt x 238.97406pt.
+
+Overfull \hbox (7.82748pt too wide) in paragraph at lines 464--480
+\OT1/cmr/m/n/12 These are rep-re-sented in Roll(counter-clockwise in x axis di-
+rec-tion), Pitch(counter-clockwise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--480
+
+ []
+
+[28 <./graphics/MPU9250.png>]
+<./graphics/DataBoardSch.png, id=156, 648.62325pt x 473.97075pt>
+File: ./graphics/DataBoardSch.png Graphic file (type png)
+<use ./graphics/DataBoardSch.png>
+Package pdftex.def Info: ./graphics/DataBoardSch.png  used on input line 491.
+(pdftex.def)             Requested size: 426.79134pt x 311.88147pt.
+<./graphics/DataBoard.png, id=157, 682.34924pt x 295.1025pt>
+File: ./graphics/DataBoard.png Graphic file (type png)
+<use ./graphics/DataBoard.png>
+Package pdftex.def Info: ./graphics/DataBoard.png  used on input line 497.
+(pdftex.def)             Requested size: 426.79134pt x 184.57819pt.
+
+Overfull \hbox (11.04723pt too wide) in paragraph at lines 506--506
+[]|\OT1/cmr/m/n/12 Qty| 
+ []
+
+
+Overfull \hbox (8.3898pt too wide) in paragraph at lines 508--508
+[]|\OT1/cmr/m/n/12 MPU9250| 
+ []
+
+
+Overfull \hbox (3.21397pt too wide) in paragraph at lines 510--510
+[]|\OT1/cmr/m/n/12 17| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+[]|\OT1/cmr/m/n/12 JP17, JP19,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\OT1/cmr/m/n/12 JP20, JP21,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\OT1/cmr/m/n/12 JP22, JP23,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\OT1/cmr/m/n/12 JP24, JP25,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\OT1/cmr/m/n/12 JP26, JP27,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\OT1/cmr/m/n/12 JP28, JP29,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\OT1/cmr/m/n/12 JP30, JP31,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+\OT1/cmr/m/n/12 JP32, JP33,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+[]|\OT1/cmr/m/n/12 PIN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--511
+\OT1/cmr/m/n/12 of al-ter-na-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--512
+[]|\OT1/cmr/m/n/12 PIN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
+[]|\OT1/cmr/m/n/12 VCC for the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--514
+[]|\OT1/cmr/m/n/12 PIN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+[]|\OT1/cmr/m/n/12 ADC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+\OT1/cmr/m/n/12 4CH-
+ []
+
+
+Overfull \hbox (5.13011pt too wide) in paragraph at lines 516--516
+\OT1/cmr/m/n/12 ADS1115| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+[]|\OT1/cmr/m/n/12 ADC-4CH-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+[]|\OT1/cmr/m/n/12 ADC-4CH-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
+[]|\OT1/cmr/m/n/12 4 Chan-nel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
+\OT1/cmr/m/n/12 16-Bit Analog-
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 516--517
+\OT1/cmr/m/n/12 to-Digital Con-
+ []
+
+
+Overfull \hbox (7.73703pt too wide) in paragraph at lines 518--518
+[]|\OT1/cmr/m/n/12 WEMOS-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+\OT1/cmr/m/n/12 D1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+[]|\OT1/cmr/m/n/12 WEMOS-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+[]|\OT1/cmr/m/n/12 WEMOS-D1-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+[]|\OT1/cmr/m/n/12 WEMOS D1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\OT1/cmr/m/n/12 on ESP-8266
+ []
+
+[29 <./graphics/RPY.png>] [30 <./graphics/DataBoardSch.png> <./graphics/DataBoa
+rd.png>]
+<./graphics/chalk.jpg, id=167, 3468.96pt x 4625.28pt>
+File: ./graphics/chalk.jpg Graphic file (type jpg)
+<use ./graphics/chalk.jpg>
+Package pdftex.def Info: ./graphics/chalk.jpg  used on input line 545.
+(pdftex.def)             Requested size: 142.26378pt x 189.63771pt.
+<./graphics/sensorPos.jpg, id=168, 3468.96pt x 4625.28pt>
+File: ./graphics/sensorPos.jpg Graphic file (type jpg)
+<use ./graphics/sensorPos.jpg>
+Package pdftex.def Info: ./graphics/sensorPos.jpg  used on input line 547.
+(pdftex.def)             Requested size: 142.26378pt x 189.63771pt.
+<./graphics/pad.jpg, id=169, 3468.96pt x 4625.28pt>
+File: ./graphics/pad.jpg Graphic file (type jpg)
+<use ./graphics/pad.jpg>
+Package pdftex.def Info: ./graphics/pad.jpg  used on input line 549.
+(pdftex.def)             Requested size: 142.26378pt x 189.63771pt.
+<./graphics/padPos.jpg, id=170, 3468.96pt x 4625.28pt>
+File: ./graphics/padPos.jpg Graphic file (type jpg)
+<use ./graphics/padPos.jpg>
+Package pdftex.def Info: ./graphics/padPos.jpg  used on input line 556.
+(pdftex.def)             Requested size: 142.26378pt x 189.63771pt.
+<./graphics/padGlue.jpg, id=171, 3468.96pt x 4625.28pt>
+File: ./graphics/padGlue.jpg Graphic file (type jpg)
+<use ./graphics/padGlue.jpg>
+Package pdftex.def Info: ./graphics/padGlue.jpg  used on input line 558.
+(pdftex.def)             Requested size: 142.26378pt x 189.63771pt.
+<./graphics/padGlueClose.jpg, id=172, 3468.96pt x 4625.28pt>
+File: ./graphics/padGlueClose.jpg Graphic file (type jpg)
+<use ./graphics/padGlueClose.jpg>
+Package pdftex.def Info: ./graphics/padGlueClose.jpg  used on input line 560.
+(pdftex.def)             Requested size: 142.26378pt x 189.63771pt.
+<./graphics/completeProt.jpg, id=173, 4625.28pt x 3468.96pt>
+File: ./graphics/completeProt.jpg Graphic file (type jpg)
+<use ./graphics/completeProt.jpg>
+Package pdftex.def Info: ./graphics/completeProt.jpg  used on input line 566.
+(pdftex.def)             Requested size: 426.79134pt x 320.0798pt.
+ [31]
+<./graphics/DataBoardCased.jpg, id=178, 4625.28pt x 3468.96pt>
+File: ./graphics/DataBoardCased.jpg Graphic file (type jpg)
+<use ./graphics/DataBoardCased.jpg>
+Package pdftex.def Info: ./graphics/DataBoardCased.jpg  used on input line 577.
+
+(pdftex.def)             Requested size: 142.26378pt x 106.65797pt.
+<./graphics/DataBoardInterface.jpg, id=179, 4625.28pt x 3468.96pt>
+File: ./graphics/DataBoardInterface.jpg Graphic file (type jpg)
+<use ./graphics/DataBoardInterface.jpg>
+Package pdftex.def Info: ./graphics/DataBoardInterface.jpg  used on input line 
+579.
+(pdftex.def)             Requested size: 142.26378pt x 106.65797pt.
+<./graphics/DataBoardMicro.jpg, id=180, 4625.28pt x 3468.96pt>
+File: ./graphics/DataBoardMicro.jpg Graphic file (type jpg)
+<use ./graphics/DataBoardMicro.jpg>
+Package pdftex.def Info: ./graphics/DataBoardMicro.jpg  used on input line 581.
+
+(pdftex.def)             Requested size: 142.26378pt x 106.65797pt.
+<./graphics/PowerBoardCased.jpg, id=181, 4625.28pt x 3468.96pt>
+File: ./graphics/PowerBoardCased.jpg Graphic file (type jpg)
+<use ./graphics/PowerBoardCased.jpg>
+Package pdftex.def Info: ./graphics/PowerBoardCased.jpg  used on input line 587
+.
+(pdftex.def)             Requested size: 284.52756pt x 213.36888pt.
+<./graphics/PowerBoard.jpg, id=182, 4625.28pt x 3468.96pt>
+File: ./graphics/PowerBoard.jpg Graphic file (type jpg)
+<use ./graphics/PowerBoard.jpg>
+Package pdftex.def Info: ./graphics/PowerBoard.jpg  used on input line 592.
+(pdftex.def)             Requested size: 284.52756pt x 213.36888pt.
+<./graphics/ShoeAssembled.jpg, id=183, 3468.96pt x 4625.28pt>
+File: ./graphics/ShoeAssembled.jpg Graphic file (type jpg)
+<use ./graphics/ShoeAssembled.jpg>
+Package pdftex.def Info: ./graphics/ShoeAssembled.jpg  used on input line 598.
+(pdftex.def)             Requested size: 142.26378pt x 189.63771pt.
+<./graphics/ShoeAssembled4.jpg, id=184, 3468.96pt x 4625.28pt>
+File: ./graphics/ShoeAssembled4.jpg Graphic file (type jpg)
+<use ./graphics/ShoeAssembled4.jpg>
+Package pdftex.def Info: ./graphics/ShoeAssembled4.jpg  used on input line 600.
+
+(pdftex.def)             Requested size: 142.26378pt x 189.63771pt.
+<./graphics/ShoeAssembled3.jpg, id=185, 3468.96pt x 4625.28pt>
+File: ./graphics/ShoeAssembled3.jpg Graphic file (type jpg)
+<use ./graphics/ShoeAssembled3.jpg>
+Package pdftex.def Info: ./graphics/ShoeAssembled3.jpg  used on input line 602.
+
+(pdftex.def)             Requested size: 142.26378pt x 189.63771pt.
+<./graphics/AllSystem.jpg, id=186, 4625.28pt x 3468.96pt>
+File: ./graphics/AllSystem.jpg Graphic file (type jpg)
+<use ./graphics/AllSystem.jpg>
+Package pdftex.def Info: ./graphics/AllSystem.jpg  used on input line 607.
+(pdftex.def)             Requested size: 398.33858pt x 298.7482pt.
+ [32 <./graphics/chalk.jpg> <./graphics/sensorPos.jpg> <./graphics/pad.jpg> <./
+graphics/padPos.jpg> <./graphics/padGlue.jpg> <./graphics/padGlueClose.jpg>]
+Overfull \hbox (88.24886pt too wide) in paragraph at lines 611--613
+\OT1/cmr/m/n/12 The code can be found with the project, or on the git hub do-ma
+in at https://github.com/Noath2302/Sensor-
+ []
+
+[33 <./graphics/completeProt.jpg> <./graphics/DataBoardCased.jpg> <./graphics/D
+ataBoardInterface.jpg> <./graphics/DataBoardMicro.jpg>]
+<./graphics/messagesender.png, id=193, 332.442pt x 12.045pt>
+File: ./graphics/messagesender.png Graphic file (type png)
+<use ./graphics/messagesender.png>
+Package pdftex.def Info: ./graphics/messagesender.png  used on input line 617.
+(pdftex.def)             Requested size: 332.44118pt x 12.04495pt.
+<./graphics/message_sender.png, id=194, 623.32875pt x 422.57875pt>
+File: ./graphics/message_sender.png Graphic file (type png)
+<use ./graphics/message_sender.png>
+Package pdftex.def Info: ./graphics/message_sender.png  used on input line 623.
+
+(pdftex.def)             Requested size: 341.43306pt x 231.47116pt.
+ [34 <./graphics/PowerBoardCased.jpg> <./graphics/PowerBoard.jpg>] [35 <./graph
+ics/ShoeAssembled.jpg> <./graphics/ShoeAssembled4.jpg> <./graphics/ShoeAssemble
+d3.jpg> <./graphics/AllSystem.jpg> <./graphics/messagesender.png>]
+<./graphics/messageReceiver.png, id=202, 643.40375pt x 432.61626pt>
+File: ./graphics/messageReceiver.png Graphic file (type png)
+<use ./graphics/messageReceiver.png>
+Package pdftex.def Info: ./graphics/messageReceiver.png  used on input line 639
+.
+(pdftex.def)             Requested size: 341.43306pt x 229.58258pt.
+<./graphics/messageReceiver2.png, id=203, 763.85374pt x 403.5075pt>
+File: ./graphics/messageReceiver2.png Graphic file (type png)
+<use ./graphics/messageReceiver2.png>
+Package pdftex.def Info: ./graphics/messageReceiver2.png  used on input line 64
+6.
+(pdftex.def)             Requested size: 341.43306pt x 180.36375pt.
+<./graphics/dataPlot.png, id=204, 713.66624pt x 292.09125pt>
+File: ./graphics/dataPlot.png Graphic file (type png)
+<use ./graphics/dataPlot.png>
+Package pdftex.def Info: ./graphics/dataPlot.png  used on input line 653.
+(pdftex.def)             Requested size: 341.43306pt x 139.74313pt.
+<./graphics/walking.png, id=205, 444.4605pt x 342.078pt>
+File: ./graphics/walking.png Graphic file (type png)
+<use ./graphics/walking.png>
+Package pdftex.def Info: ./graphics/walking.png  used on input line 659.
+(pdftex.def)             Requested size: 398.33858pt x 306.59373pt.
+ [36 <./graphics/message_sender.png>] [37 <./graphics/messageReceiver.png> <./g
+raphics/messageReceiver2.png>]
+<./graphics/writeFile.png, id=216, 352.9185pt x 46.9755pt>
+File: ./graphics/writeFile.png Graphic file (type png)
+<use ./graphics/writeFile.png>
+Package pdftex.def Info: ./graphics/writeFile.png  used on input line 669.
+(pdftex.def)             Requested size: 341.43306pt x 45.44789pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--674
+
+ []
+
+[38 <./graphics/dataPlot.png>] [39 <./graphics/walking.png> <./graphics/writeFi
+le.png>]
+Chapter 4.
+<./graphics/shoe2.jpg, id=226, 2055.68pt x 1541.76pt>
+File: ./graphics/shoe2.jpg Graphic file (type jpg)
+<use ./graphics/shoe2.jpg>
+Package pdftex.def Info: ./graphics/shoe2.jpg  used on input line 677.
+(pdftex.def)             Requested size: 398.33858pt x 298.7482pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 680--682
+
+ []
+
+[40
+
+ <./graphics/shoe2.jpg>] [41]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--698
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 699--705
+
+ []
+
+[42
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 707--710
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
+
+ []
+
+[43] [44]
+Chapter 6.
+[45
+
+]
+Overfull \hbox (2.4817pt too wide) in paragraph at lines 728--729
+[]\OT1/cmr/m/n/12 Tekscan "Why is Gait Anal-y-sis Im-por-tant?" https://www.tek
+scan.com/blog/medical,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--736
+[]\OT1/cmr/m/n/12 Protokinetics Team, "Un-der-stand-ing Phases of the Gait Cy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--736
+\OT1/cmr/m/n/12 cle", https://www.protokinetics.com Nov. 28 2018. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--736
+\OT1/cmr/m/n/12 https://www.protokinetics.com/2018/11/28/understanding-phases-o
+f-the-gait-
+ []
+
+[46
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
+[]\OT1/cmr/m/n/12 "OpAmp tu-to-ri-als", Elec-tron-ics Tu-to-ri-als, 2019. [On-l
+ine]. Avail-able:
+ []
+
+[47] (thesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 3562 strings out of 492945
+ 52089 string characters out of 3126252
+ 128203 words of memory out of 3000000
+ 7342 multiletter control sequences out of 15000+200000
+ 14485 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,18n,27p,1072b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/themi/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/themi/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/themi/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/themi/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/User
+s/themi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb><C:/Users/themi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Users/themi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Users/themi/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/themi/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/themi/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/themi/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Us
+ers/themi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl
+10.pfb><C:/Users/themi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsl12.pfb><C:/Users/themi/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/themi/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/themi/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/themi/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/User
+s/themi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/m
+sam10.pfb>
+Output written on thesis.pdf (47 pages, 113489779 bytes).
+PDF statistics:
+ 310 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+

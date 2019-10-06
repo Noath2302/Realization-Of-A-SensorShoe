@@ -1,0 +1,45 @@
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Human bipedal gait analysis \cite {gaitcycle}}}{9}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Bare OpAmp with no feedback}}{11}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Inverting Amplifier circuit}}{11}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces non-inverting amplifier}}{12}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Non-Inverting Voltage Follower}}{13}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Differential Amplifier}}{13}% 
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces General realization of the System Building Blocks}}{15}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Flexiforce A301 spec, from Tekscan datasheet}}{16}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Sensor behavior, figure from Tekscan\cite {silverA301}}}{17}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Recommended circuit from Tekscan Flexiforce A301 Datasheet}}{18}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Symmetric Differential amplifier}}{18}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Force Board Schematic}}{19}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Force Board Parts arrangement (Copper Pour hidden for clear observation)}}{20}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces MT3608 DC-DC converter}}{21}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Power Board Parts schematic}}{24}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Power Board Parts arrangement (Copper Pour hidden for clear observation)}}{24}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Wemos D1-R1 Wifi module, with Usb-connected to laptop on the right}}{25}% 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces ADS1115 16 bit analog-digital converter}}{26}% 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces changing the active range in the library file .cpp}}{26}% 
+\contentsline {figure}{\numberline {3.14}{\ignorespaces enumeration of available gain option file .h}}{26}% 
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Available addresses configuration of the ADS1115 when operating}}{27}% 
+\contentsline {figure}{\numberline {3.16}{\ignorespaces MPU-9250 Breakout Board of MPU9250}}{28}% 
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Orientation of Axes of Sensitivity and Polarity of Rotation for Accelerometer and Gyroscope}}{29}% 
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Schematic of the Data Board}}{30}% 
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Data Board parts arrangement (Copper pour hidden for clear observation)}}{30}% 
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Complete prototype before casing and mounting on shoe}}{33}% 
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Data Board after casing}}{33}% 
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Force Board after casing}}{34}% 
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Power Board after casing and wired on the rubber strap, with 18650 battery}}{34}% 
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Shoe assembled with Data Board, Force Board and the insole}}{35}% 
+\contentsline {figure}{\numberline {3.25}{\ignorespaces All system before wearing}}{35}% 
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Message that was sent to the server}}{35}% 
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Message anatomy from the client program}}{36}% 
+\contentsline {figure}{\numberline {3.28}{\ignorespaces return List after "Z" extraction from messages}}{37}% 
+\contentsline {figure}{\numberline {3.29}{\ignorespaces dataStream update data point}}{37}% 
+\contentsline {figure}{\numberline {3.30}{\ignorespaces transposed version of the data to plot}}{38}% 
+\contentsline {figure}{\numberline {3.31}{\ignorespaces Real time plot running when walking}}{39}% 
+\contentsline {figure}{\numberline {3.32}{\ignorespaces Code piece for writing dataList to the file}}{39}% 
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces SensorShoe system when installed in the foot area}}{40}% 
+\addvspace {10pt}
+\addvspace {10pt}

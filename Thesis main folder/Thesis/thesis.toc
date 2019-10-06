@@ -1,0 +1,35 @@
+\contentsline {chapter}{\numberline {1.}Introduction}{8}% 
+\contentsline {chapter}{\numberline {2.}Theoretical Background}{9}% 
+\contentsline {section}{\numberline {2.1}Gait Analysis}{9}% 
+\contentsline {section}{\numberline {2.2}Gait Cycle}{9}% 
+\contentsline {section}{\numberline {2.3}Other Work}{10}% 
+\contentsline {section}{\numberline {2.4}OpAmp}{10}% 
+\contentsline {chapter}{\numberline {3.}Realization of the System}{15}% 
+\contentsline {section}{\numberline {3.1}General}{15}% 
+\contentsline {section}{\numberline {3.2}Hardware}{16}% 
+\contentsline {subsection}{\numberline {3.2.1}Force Board}{16}% 
+\contentsline {subsubsection}{Flexiforce A301}{17}% 
+\contentsline {subsection}{\numberline {3.2.2}Power Board}{20}% 
+\contentsline {subsubsection}{Board Design}{21}% 
+\contentsline {subsection}{\numberline {3.2.3}Data Board}{23}% 
+\contentsline {subsubsection}{Interfaces}{23}% 
+\contentsline {subsubsection}{Esp8266-12W}{25}% 
+\contentsline {subsubsection}{ADS1115}{25}% 
+\contentsline {subsubsection}{MPU9250 Inertial Measuring Unit}{28}% 
+\contentsline {subsubsection}{Board Design}{29}% 
+\contentsline {subsection}{\numberline {3.2.4}Insole}{29}% 
+\contentsline {subsection}{\numberline {3.2.5}shoe installment}{32}% 
+\contentsline {section}{\numberline {3.3}Software}{33}% 
+\contentsline {subsection}{\numberline {3.3.1}Sender}{34}% 
+\contentsline {subsection}{\numberline {3.3.2}Receiver}{36}% 
+\contentsline {subsection}{\numberline {3.3.3}Processing code}{38}% 
+\contentsline {chapter}{\numberline {4.}Result}{40}% 
+\contentsline {section}{\numberline {4.1}Real Time Plot}{40}% 
+\contentsline {chapter}{\numberline {5.}Discussion}{42}% 
+\contentsline {section}{\numberline {5.1}Hardware}{42}% 
+\contentsline {subsection}{\numberline {5.1.1}Design}{42}% 
+\contentsline {subsection}{\numberline {5.1.2}Manufacturing}{42}% 
+\contentsline {section}{\numberline {5.2}Software}{43}% 
+\contentsline {subsection}{\numberline {5.2.1}General}{43}% 
+\contentsline {subsection}{\numberline {5.2.2}Python Script:}{43}% 
+\contentsline {chapter}{\numberline {6.}Conclusion}{45}% 

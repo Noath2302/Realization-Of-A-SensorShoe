@@ -1,0 +1,4 @@
+Open the IDLE and open the file in Python default editor
+make sure that the required library are installed: matplotlib
+if not try setup the environment variable and pip to install the library.
+please see tutorial about this online

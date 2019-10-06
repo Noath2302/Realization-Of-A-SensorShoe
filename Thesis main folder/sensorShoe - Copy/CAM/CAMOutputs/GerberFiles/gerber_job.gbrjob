@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-07-24T08:01:49Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "powerBoard"
+        },
+        "Owner": "Toan Truong <tthanh@stud.fra-uas.de>",
+        "Size": {
+            "X": 61.702,
+            "Y": 29.261
+        }
+    }
+}

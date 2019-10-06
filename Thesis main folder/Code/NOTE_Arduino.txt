@@ -1,0 +1,24 @@
+open a Local Area Network (LAN):
+*********************************************************
+ssid: "smartShoe"
+password: 123456789
+or change the value in "Wifi module test" in allModuleTest_4.ino
+---------------------------------------------------------
+using cmd (administrator) :
+>netsh                 |Enter|
+>wlan                  |Enter|
+>set hostednetwork     |Enter|
+####
+here you will see the option to change the hostednetwork properties:
+####-----------------------------------------------------
+>set hostednetwork ssid=smartShoe    |Enter|
+>set hostednetwork key=123456789     |Enter|
+>start hostednetwork                 |Enter|
+####-----------------------------------------------------
+to end the host type
+####-----------------------------------------------------
+>stop hostednetwork                  |Enter|
+
+*********************************************************
+
+these commands open a LAN on the PC to allow 
