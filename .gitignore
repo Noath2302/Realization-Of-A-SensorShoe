@@ -26,3 +26,5 @@ someOtherfoler/
 *.rar
 *.tar
 *.zip
+# exclude everything
+oldFiles/*
